@@ -6,7 +6,6 @@
 *.user
 *.userosscache
 *.sln.docstates
-.vscode/
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -274,3 +273,4 @@ UploadedFiles
 
 #Nuke working directory
 .nuke-working-directory
+config.bat
